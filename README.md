@@ -91,6 +91,12 @@ Whether you are working with a few kilobytes or several gigabytes, **Asar** main
 
 ---
 
+## Documentation
+
+For more information, technical documentation, and usage examples, please visit the [wiki](https://github.com/korayustundag/asar/wiki) page.
+
+---
+
 ## Feedback & Contribution
 
 This project is maintained by **Koray USTUNDAG**. If you encounter any issues or have feature requests, please open an issue on the [GitHub repository](https://github.com/korayustundag/asar).
