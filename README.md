@@ -93,7 +93,7 @@ Whether you are working with a few kilobytes or several gigabytes, **Asar** main
 
 ## Feedback & Contribution
 
-This project is maintained by **Koray USTUNDAG**. If you encounter any issues or have feature requests, please open an issue on the [GitHub repository](https://github.com/korayustundag/Asar).
+This project is maintained by **Koray USTUNDAG**. If you encounter any issues or have feature requests, please open an issue on the [GitHub repository](https://github.com/korayustundag/asar).
 
 ---
 
