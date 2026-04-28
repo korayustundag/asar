@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>net10.0;net9.0;net8.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Optimize>true</Optimize>
+    <Architecture>x64</Architecture>
+    <PackageId>Asar</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <AssemblyName>Asar</AssemblyName>
+    <RootNamespace>Asar</RootNamespace>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Koray USTUNDAG</Authors>
+    <Company>Koray USTUNDAG</Company>
+    <Copyright>Copyright © 2026 Koray USTUNDAG</Copyright>
+    <Description>A full-featured C# library for reading, writing, modifying, extracting and packing ASAR (Atom Shell Archive Format) archive files with first-class random-access and Stream support.</Description>
+    <PackageTags>asar;asar archive;asar file;asar reader;asar writer;asar extractor;asar packer;asar stream;asar random access</PackageTags>
+    <RepositoryUrl>https://github.com/korayustundag/asar</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/korayustundag/asar</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Initial release of Asar library.</PackageReleaseNotes>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>AsarLogo.png</PackageIcon>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+    <None Include="AsarLogo.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
