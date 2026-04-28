@@ -1,5 +1,6 @@
 # Asar
 
+[![NuGet Version](https://img.shields.io/nuget/v/Asar.svg?style=flat-square)](https://www.nuget.org/packages/Asar/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Target Framework](https://img.shields.io/badge/.NET-8.0%20%7C%209.0%20%7C%2010.0-512bd4.svg?style=flat-square)](https://dotnet.microsoft.com/)
 
